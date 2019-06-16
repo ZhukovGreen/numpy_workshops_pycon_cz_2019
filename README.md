@@ -1,5 +1,11 @@
 # NumPy, SciPy and Matplotlib workshop for PyCon CZ 2019
 
+## Installation
+
+You have to have poetry install
+1. poetry install
+1. poetry run jupyter lab
+
 ## Presentation
 
 https://docs.google.com/presentation/d/19V9Vx1uCbTZBhQJHM0fzK7DKgc739AQvV1H3fsTZH6k/edit#slide=id.g599ad15b74_0_69

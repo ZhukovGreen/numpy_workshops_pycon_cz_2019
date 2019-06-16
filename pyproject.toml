@@ -17,6 +17,7 @@ xlrd = "^1.2"
 plotly = "^3.10"
 plotly_express = "^0.3.0"
 jupyterlab = "^0.35.6"
+neovim = "^0.3.1"
 
 [tool.poetry.dev-dependencies]
 
